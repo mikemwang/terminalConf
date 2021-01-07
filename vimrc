@@ -81,3 +81,4 @@ set colorcolumn=80
 
 " terminal commands
 tnoremap jk <C-\><C-n>
+set t_ut=""
